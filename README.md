@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Kentkart](https://www.kentkart.com/) as a Senior Software Engineer.
 - 🌱 I’m currently learning data engineering tools, new software technologies.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/barankayaa)
 
